@@ -43,3 +43,5 @@ To answer this question:
 - Visually estimate the result by plotting the daily minimum temperature of each observation.
 
 6. Export the DataFrame to a CSV file.
+
+Support Received: Lectures, Xpert Learning Assistance, Ww3schools website, Stack Overflow. 
